@@ -11,7 +11,7 @@
  </table>
 <div>
   
-  # Sobre Mim<br>
+  # ⭐️Sobre Mim<br>
   👨🏻‍💻 Estudando Técnico em Desenvolvimento de Sistemas no SENAC.<br>
   ✋ Procuro um estágio.<br>
   🧑🏻‍💻Aprendendo Java,C#, MySQL .<br>
@@ -35,3 +35,18 @@
     </td>
   </table>
 </div>
+<br><br>
+
+# 📚Linguagens
+<table>
+  <td>
+     <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  </td>
+  <td>
+    <img src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    
+  </td>
+  <td>
+   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  </td>
+</table>
